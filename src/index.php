@@ -2,7 +2,7 @@
 
 // Database credentials
 $dbUsername = 'mydbase';
-$dbPassword = 'korbaca2013';
+$dbPassword = 'pass';
 $dbHost = '192.168.164.3';
 $dbServiceName = 'PDB2';
 
